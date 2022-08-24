@@ -54,6 +54,7 @@ import brandWhite from "assets/images/logo-ct.png";
 import brandDark from "assets/images/logo-ct-dark.png";
 
 export default function App() {
+  /* eslint-disable */
   const [controller, dispatch] = useMaterialUIController();
   const {
     miniSidenav,

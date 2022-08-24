@@ -30,7 +30,7 @@ function PlatformSettings() {
   const [newLaunches, setNewLaunches] = useState(false);
   const [productUpdate, setProductUpdate] = useState(true);
   const [newsletter, setNewsletter] = useState(false);
-    
+
   return (
     <Card sx={{ boxShadow: "none" }}>
       <MDBox p={2}>
